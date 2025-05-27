@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.remotearmz.commandcenter">
+    <application
+        android:icon="@android:color/transparent"
+        android:label="RemoteArmzzz">
+        <!-- Add activities later -->
+    </application>
+</manifest>
