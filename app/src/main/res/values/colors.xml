@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="slate_600">#475569</color>
+    <color name="white">#FFFFFF</color>
+    <color name="emerald_400">#34D399</color>
+    <color name="blue_400">#60A5FA</color>
+    <color name="violet_400">#A78BFA</color>
+    <color name="amber_400">#FBBF24</color>
+
+    <!-- You can keep your existing colors below if they were already there -->
+    <!-- Example: -->
+    <!-- <color name="primaryColor">#6200EE</color> -->
+</resources>
