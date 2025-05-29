@@ -37,13 +37,15 @@
         android:name="com.remotearmz.commandcenter.ui.leads.LeadDetailFragment"
         android:label="Lead Detail" />
 
+    <!-- Renamed to clientsListFragment -->
     <fragment
-        android:id="@+id/clientsFragment"
+        android:id="@+id/clientsListFragment"
         android:name="com.remotearmz.commandcenter.ui.clients.ClientsFragment"
         android:label="Clients" />
 
+    <!-- Renamed to leadsListFragment -->
     <fragment
-        android:id="@+id/leadsFragment"
+        android:id="@+id/leadsListFragment"
         android:name="com.remotearmz.commandcenter.ui.leads.LeadsFragment"
         android:label="Leads" />
 
