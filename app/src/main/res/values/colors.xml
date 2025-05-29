@@ -10,4 +10,9 @@
     <!-- You can keep your existing colors below if they were already there -->
     <!-- Example: -->
     <!-- <color name="primaryColor">#6200EE</color> -->
+    <color name="orange_400">#FB923C</color>
+    <color name="green_400">#4ADE80</color>
+    <color name="red_400">#F87171</color>
+    <color name="yellow_400">#FACC15</color>
+    <color name="status_chip_background">#E5E7EB</color>
 </resources>
